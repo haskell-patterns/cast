@@ -1,8 +1,8 @@
 name:                cast
-version:             0.1.0.1
+version:             0.1.0.2
 synopsis:            Abstact cast pattern 
 description:
-            Generelized pattern that allow cast one type for another.
+            Generalized pattern that allow cast one type for another.
 
             Look at README for example.  
 homepage:            https://github.com/haskell-patterns/cast#readme
