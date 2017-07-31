@@ -1,7 +1,9 @@
 {-# LANGUAGE MultiParamTypeClasses #-}
 {-# LANGUAGE FlexibleInstances #-}
 
-module Pattern.Cast where
+module Pattern.Cast
+  ( Cast (..)
+  ) where
 
 class Cast a b where
   cast :: a -> b
